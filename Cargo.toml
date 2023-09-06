@@ -3,6 +3,7 @@ name = "rusty_sorter"
 version = "0.1.0"
 edition = "2021"
 authors = [ "Juan-luke Klopper" ]
+description = "This is a library of different sorting algorithms"
 
 [lib]
 crate-type = ["cdylib", "rlib"]

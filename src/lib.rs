@@ -13,6 +13,6 @@ impl rusty_sorter::RustySorter for RustySorter {
             }
         }
 
-        unsorted_array
+         unsorted_array
     }
 }

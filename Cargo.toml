@@ -11,7 +11,8 @@ crate-type = ["cdylib", "rlib"]
 [package.metadata.wapm]
 namespace = "cosmicsloth"
 abi = "none"
-bindings = { wai-version = "0.1.0", exports = "rusty-sorter.wai"}
+bindings = { wai-version = "0.2.0", exports = "rusty-sorter.wai"}
 
 [dependencies]
+
 wai-bindgen-rust = "0.2.3"
